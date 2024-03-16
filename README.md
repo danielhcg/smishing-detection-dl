@@ -1,2 +1,2 @@
 # smishing-detection-dl
-project using deep learning to detect whether a smish is legitimate or fake 
+Project using deep learning to detect whether a string of text is legitimate or fake 
